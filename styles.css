@@ -4,3 +4,9 @@ h1 {
 body {
   background-color: mediumslateblue;
 }
+.classBox {
+  width: 50px;
+  height: 50px;
+  background-color: chocolate;
+}
+/* cubic beizer for transitions */
